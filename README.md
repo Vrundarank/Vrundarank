@@ -1,4 +1,6 @@
  ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVoMXY5NzhmeHh4NGZqdGM0dXR1ZW05MWZkcTljbDE3amc3aThsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MgkBTmxt18lGg/giphy.gif)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?Vrundarank=Vrundarank&show_icons=true&theme=radical)
+
 
 <!--
 **Vrundarank/Vrundarank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
